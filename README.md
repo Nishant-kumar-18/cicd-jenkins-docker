@@ -102,5 +102,20 @@ cd cicd-jenkins-docker
 
 Nishant Kumar
 📧 itsnishantkr18@gmail.com
+---
+
+## 📸 Project Screenshots
+
+### 🔹 Jenkins Dashboard
+![Jenkins](jenkins-dashboard.png)
+
+### 🔹 First Dashboard
+![Dashboard](frist-dashboard.png)
+
+### 🔹 AWS EC2 Instance
+![EC2](ec2.png)
+
+### 🔹 Final Success Build
+![Success](final-success.png)
 
 ⭐ If you like this project, give it a star!
