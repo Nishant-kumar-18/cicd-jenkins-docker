@@ -1,0 +1,3 @@
+def call() {
+  sh 'echo Hi From DevOps team,Thish is shared libaraies
+}
